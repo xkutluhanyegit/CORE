@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3fAVFrh53O2SzSk/cHzwir9Nxg0dReITd0Eirfdnjx5EOEAP+W55ZmopMFfWU8Z+KymUYEhLG5GF+TzN0E2Nzg==",
+  "success": true,
+  "projectFilePath": "/Users/kutluhanyegit/Desktop/CORE/02 - Autofac/Business/Business.csproj",
+  "expectedPackageFiles": [
+    "/Users/kutluhanyegit/.nuget/packages/autofac/8.0.0/autofac.8.0.0.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/autofac.extras.dynamicproxy/7.1.0/autofac.extras.dynamicproxy.7.1.0.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/system.diagnostics.diagnosticsource/7.0.2/system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3V9VvutZajF7GLWEOLDhhNfkznBRFRQ/pJkm2sVpPXW3kyPU2xiBvx0edGPV0/KpT2bl4kDohiw2Lo3As6AEyw==",
+  "success": true,
+  "projectFilePath": "/Users/kutluhanyegit/Desktop/CORE/02 - Autofac/UI/UI.csproj",
+  "expectedPackageFiles": [
+    "/Users/kutluhanyegit/.nuget/packages/autofac/8.0.0/autofac.8.0.0.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/autofac.extensions.dependencyinjection/9.0.0/autofac.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/autofac.extras.dynamicproxy/7.1.0/autofac.extras.dynamicproxy.7.1.0.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/system.diagnostics.diagnosticsource/7.0.2/system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
