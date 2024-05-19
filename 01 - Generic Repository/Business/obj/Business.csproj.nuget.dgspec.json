@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kutluhanyegit/Desktop/CORE/Business/Business.csproj": {}
+    "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Business/Business.csproj": {}
   },
   "projects": {
-    "/Users/kutluhanyegit/Desktop/CORE/Business/Business.csproj": {
+    "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Business/Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kutluhanyegit/Desktop/CORE/Business/Business.csproj",
+        "projectUniqueName": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Business/Business.csproj",
         "projectName": "Business",
-        "projectPath": "/Users/kutluhanyegit/Desktop/CORE/Business/Business.csproj",
+        "projectPath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Business/Business.csproj",
         "packagesPath": "/Users/kutluhanyegit/.nuget/packages/",
-        "outputPath": "/Users/kutluhanyegit/Desktop/CORE/Business/obj/",
+        "outputPath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kutluhanyegit/.nuget/NuGet/NuGet.Config"
@@ -26,14 +26,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/kutluhanyegit/Desktop/CORE/Core/Core.csproj": {
-                "projectPath": "/Users/kutluhanyegit/Desktop/CORE/Core/Core.csproj"
+              "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Core/Core.csproj": {
+                "projectPath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Core/Core.csproj"
               },
-              "/Users/kutluhanyegit/Desktop/CORE/DataAccess/DataAccess.csproj": {
-                "projectPath": "/Users/kutluhanyegit/Desktop/CORE/DataAccess/DataAccess.csproj"
+              "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/DataAccess/DataAccess.csproj"
               },
-              "/Users/kutluhanyegit/Desktop/CORE/Entities/Entities.csproj": {
-                "projectPath": "/Users/kutluhanyegit/Desktop/CORE/Entities/Entities.csproj"
+              "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Entities/Entities.csproj": {
+                "projectPath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Entities/Entities.csproj"
               }
             }
           }
@@ -47,6 +47,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -67,14 +77,14 @@
         }
       }
     },
-    "/Users/kutluhanyegit/Desktop/CORE/Core/Core.csproj": {
+    "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kutluhanyegit/Desktop/CORE/Core/Core.csproj",
+        "projectUniqueName": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/kutluhanyegit/Desktop/CORE/Core/Core.csproj",
+        "projectPath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Core/Core.csproj",
         "packagesPath": "/Users/kutluhanyegit/.nuget/packages/",
-        "outputPath": "/Users/kutluhanyegit/Desktop/CORE/Core/obj/",
+        "outputPath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kutluhanyegit/.nuget/NuGet/NuGet.Config"
@@ -126,14 +136,14 @@
         }
       }
     },
-    "/Users/kutluhanyegit/Desktop/CORE/DataAccess/DataAccess.csproj": {
+    "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/DataAccess/DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kutluhanyegit/Desktop/CORE/DataAccess/DataAccess.csproj",
+        "projectUniqueName": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/DataAccess/DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "/Users/kutluhanyegit/Desktop/CORE/DataAccess/DataAccess.csproj",
+        "projectPath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/DataAccess/DataAccess.csproj",
         "packagesPath": "/Users/kutluhanyegit/.nuget/packages/",
-        "outputPath": "/Users/kutluhanyegit/Desktop/CORE/DataAccess/obj/",
+        "outputPath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kutluhanyegit/.nuget/NuGet/NuGet.Config"
@@ -148,11 +158,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/kutluhanyegit/Desktop/CORE/Core/Core.csproj": {
-                "projectPath": "/Users/kutluhanyegit/Desktop/CORE/Core/Core.csproj"
+              "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Core/Core.csproj": {
+                "projectPath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Core/Core.csproj"
               },
-              "/Users/kutluhanyegit/Desktop/CORE/Entities/Entities.csproj": {
-                "projectPath": "/Users/kutluhanyegit/Desktop/CORE/Entities/Entities.csproj"
+              "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Entities/Entities.csproj": {
+                "projectPath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Entities/Entities.csproj"
               }
             }
           }
@@ -208,14 +218,14 @@
         }
       }
     },
-    "/Users/kutluhanyegit/Desktop/CORE/Entities/Entities.csproj": {
+    "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Entities/Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kutluhanyegit/Desktop/CORE/Entities/Entities.csproj",
+        "projectUniqueName": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Entities/Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/Users/kutluhanyegit/Desktop/CORE/Entities/Entities.csproj",
+        "projectPath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Entities/Entities.csproj",
         "packagesPath": "/Users/kutluhanyegit/.nuget/packages/",
-        "outputPath": "/Users/kutluhanyegit/Desktop/CORE/Entities/obj/",
+        "outputPath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kutluhanyegit/.nuget/NuGet/NuGet.Config"
@@ -230,8 +240,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/kutluhanyegit/Desktop/CORE/Core/Core.csproj": {
-                "projectPath": "/Users/kutluhanyegit/Desktop/CORE/Core/Core.csproj"
+              "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Core/Core.csproj": {
+                "projectPath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Core/Core.csproj"
               }
             }
           }

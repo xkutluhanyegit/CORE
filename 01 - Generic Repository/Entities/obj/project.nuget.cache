@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UFM3n1Lc4MW3WuE+wsfPFHR68ck8XAlVg2yTPWCDudXBCG5kCOnZpWorWYSSbLsjF3ohSo8iVBXa0jw6DByOGA==",
+  "dgSpecHash": "E12vy6/mGUlM+oMPmu/m7Ld0XIn7o1/gqfOV7rWOAwFeraSYyCqCVXOQlKiaXmtFS9FHTtSzivPxqbZ2IwBsaA==",
   "success": true,
-  "projectFilePath": "/Users/kutluhanyegit/Desktop/CORE/Entities/Entities.csproj",
+  "projectFilePath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Entities/Entities.csproj",
   "expectedPackageFiles": [
     "/Users/kutluhanyegit/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

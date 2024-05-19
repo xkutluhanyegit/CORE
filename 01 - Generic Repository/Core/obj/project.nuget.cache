@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UdYrjVMj513WWsRL83iBQV7wr8WZCbGQRTrxNxITCSfXYOPmRRNXMyW39pN+lnZelM6pGsrh8p6SMoGPUafPkA==",
+  "dgSpecHash": "VMGO/rEI1ANr9Ayy0B8vDL6L6ctTfO3TZ4Ef4Jp9Zmr4t2xekgo6aPFn428Lb83Q2S7b7Dr1mBhARcq9VVEYIA==",
   "success": true,
-  "projectFilePath": "/Users/kutluhanyegit/Desktop/CORE/Core/Core.csproj",
+  "projectFilePath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Core/Core.csproj",
   "expectedPackageFiles": [
     "/Users/kutluhanyegit/.nuget/packages/microsoft.entityframeworkcore/7.0.19/microsoft.entityframeworkcore.7.0.19.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.19/microsoft.entityframeworkcore.abstractions.7.0.19.nupkg.sha512",

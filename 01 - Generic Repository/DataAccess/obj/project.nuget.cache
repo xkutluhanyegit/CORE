@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V02XpqlBjjMe2NWS6b9ocH22hemtCMBFRF033EgsgCZi2gdN7Z3PEqG1gmxEq6VMAylBEU2TIy56Gt79tPrDag==",
+  "dgSpecHash": "7n7EMquBtlFJBCeujBNmAep9mrpGB3U2F9tYP01kTcv64c61vziZRVg/mkTOdmVXG/43V3307oF2/MhRA3XTzA==",
   "success": true,
-  "projectFilePath": "/Users/kutluhanyegit/Desktop/CORE/DataAccess/DataAccess.csproj",
+  "projectFilePath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/DataAccess/DataAccess.csproj",
   "expectedPackageFiles": [
     "/Users/kutluhanyegit/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
