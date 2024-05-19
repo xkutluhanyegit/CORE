@@ -1,5 +1,7 @@
-﻿using System.Diagnostics;
+﻿using System.ComponentModel.DataAnnotations;
+using System.Diagnostics;
 using Business.Abstract;
+using Entities.Concrete;
 using Microsoft.AspNetCore.Mvc;
 using UI.Models;
 
@@ -27,6 +29,12 @@ public class HomeController : Controller
         }
         
         return View();
+    }
+
+    public IActionResult Add()
+    {
+      
+      return View();
     }
 
     public IActionResult Privacy()

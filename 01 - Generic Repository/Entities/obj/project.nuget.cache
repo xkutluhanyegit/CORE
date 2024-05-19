@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "E12vy6/mGUlM+oMPmu/m7Ld0XIn7o1/gqfOV7rWOAwFeraSYyCqCVXOQlKiaXmtFS9FHTtSzivPxqbZ2IwBsaA==",
+  "dgSpecHash": "CU4oiFFlcTyUX96AIC+501ZCx4nz9G/S0QzS84DWtzPVZQjT2QX6U/uESNe3f1Q2q0oX6woB/khphdT0cnD3pg==",
   "success": true,
   "projectFilePath": "/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/Entities/Entities.csproj",
   "expectedPackageFiles": [
     "/Users/kutluhanyegit/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/kutluhanyegit/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

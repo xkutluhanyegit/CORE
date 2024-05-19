@@ -159,3 +159,7 @@
 /Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/UI/obj/Debug/net7.0/UI.pdb
 /Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/UI/obj/Debug/net7.0/UI.genruntimeconfig.cache
 /Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/UI/obj/Debug/net7.0/ref/UI.dll
+/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/UI/bin/Debug/net7.0/FluentValidation.dll
+/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/UI/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/UI/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/kutluhanyegit/Desktop/CORE/01 - Generic Repository/UI/obj/Debug/net7.0/UI.MvcApplicationPartsAssemblyInfo.cs
